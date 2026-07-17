@@ -1,6 +1,6 @@
-## Hi there 👋
 
-# Hi there 👋, I'm Your Name
+
+# Hi there 👋, I'm Helna Maria
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=500&lines=Final+Year+B.Tech+Student;Aspiring+Software+Engineer;Full-Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
